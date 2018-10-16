@@ -4,5 +4,8 @@
 int func2()
 {
 	printf("hi func1\n");
+
+
+	printf("master master!!!!\n");
 }
 
