@@ -1,3 +1,4 @@
+
 #include "func1.h"
 #include <stdio.h>
 
@@ -9,6 +10,6 @@ int func2()
 	printf("master master!!!!\n");
 
 
-	printf("add more post\n");
+	printf("add more post\n") ;
 }
 
