@@ -11,5 +11,7 @@ int func2()
 
 
 	printf("add more post\n") ;
+
+	printf("goodbye\n");
 }
 
