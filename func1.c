@@ -7,5 +7,8 @@ int func2()
 
 
 	printf("master master!!!!\n");
+
+
+	printf("add more post\n");
 }
 
