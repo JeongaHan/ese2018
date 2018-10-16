@@ -3,6 +3,6 @@
 
 int func2()
 {
-	printf("hi func1\n");
+	printf("hihihihihihihihi turbo on  func1\n");
 }
 
